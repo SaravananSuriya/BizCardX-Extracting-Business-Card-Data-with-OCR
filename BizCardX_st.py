@@ -7,7 +7,7 @@ import numpy as np
 from streamlit_option_menu import option_menu
 import sqlite3
 
-# Creating a DataBase, cursor and table
+# Creating a DataBase, cursor and table in "sqlite3"
 try:
   db = sqlite3.connect('Bizcardx.db')
   cursor = db.cursor()
@@ -27,7 +27,7 @@ try:
 except:
   pass
 
-# opening the image using "PLI" package to use in our application
+# opening the image using "PIL" package to use images in our application
 img = Image.open('/content/0x300a0a0.jpeg')
 img1 = Image.open('/content/download.jpeg')
 
