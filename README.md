@@ -5,6 +5,8 @@ Getting the text data from an image exatraction by using easyOCR and Create a us
 
 **Technologies** : OCR,streamlit GUI, SQL,Data Extraction.
 
+**Linkedin URL** : https://www.linkedin.com/in/saravanan-b-241468269/details/projects/
+
 **Dataset Link**: https://drive.google.com/drive/folders/1FhLOdeeQ4Bfz48JAfHrU_VXvNTRgajhp)https://drive.google.com/drive/folders/1FhLOdeeQ4Bfz48JAfHrU_VXvNTRgajhp
 
 **Approach** :
